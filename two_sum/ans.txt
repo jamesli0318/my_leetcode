@@ -1,0 +1,7 @@
+# Expected results for two_sum problem
+# Format: result for each test case on a new line
+# Note: results should match the order of test cases
+
+[0,1]
+[1,2]
+[0,1]

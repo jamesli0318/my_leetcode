@@ -1,0 +1,10 @@
+# Test cases for two_sum problem
+# First line: method name
+# Following lines: test cases with inputs separated by semicolons
+# Format: [nums];target
+# Example: [2,7,11,15];9 should return [0,1]
+
+twoSum
+[2,7,11,15];9
+[3,2,4];6
+[3,3];6
